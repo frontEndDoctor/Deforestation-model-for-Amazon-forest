@@ -2,7 +2,6 @@
 
 HDSC_STAGE_D_QUIZ
 
-This is my first attempt on a Kaggle competition
 
 
 In this repo is contained a ipynb file of the codes used in building a model to predict the human footprint path in the Amazon forest with respect to deforestation.
